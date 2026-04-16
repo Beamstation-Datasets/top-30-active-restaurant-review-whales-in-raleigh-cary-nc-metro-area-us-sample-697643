@@ -1,0 +1,22 @@
+{
+  "base_price": 995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 5km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Raleigh-Cary, NC Metro Area, US",
+  "export_job_id": "91e4eb8e-5981-4efa-9707-08eb4ea8bcae",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 697643,
+  "location_name": "Raleigh-Cary, NC",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-raleigh-cary-nc-metro-area-us-sample-697643",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/697643/beamstation_697643_restaurants-us-raleighcarync_SAMPLE_DIST.csv",
+  "sample_pct": 10.02,
+  "sample_records": 47,
+  "sample_sha256": "d59166363cd5ff8e4ae0dec94d45665901fa08bef19d76bd1b6efb260133b0a4",
+  "sample_size_bytes": 209582,
+  "total_records": 469,
+  "updated_at": "2026-04-01T00:07:05.317926+00:00"
+}
