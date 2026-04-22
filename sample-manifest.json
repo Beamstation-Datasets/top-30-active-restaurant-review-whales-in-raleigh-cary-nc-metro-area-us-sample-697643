@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7adcaeec-361c-4fd7-9b5b-274b6c9ccd64",
+  "export_job_id": "057f4191-f1b9-4890-933b-a3559dde98d4",
   "id_short": 697643,
-  "published_at": "2026-04-18T19:43:07Z",
+  "published_at": "2026-04-22T07:53:59Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-raleigh-cary-nc-metro-area-us-sample-697643",
   "sample_asset_name": "beamstation_697643_restaurants-us-raleighcarync_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/697643/beamstation_697643_restaurants-us-raleighcarync_SAMPLE_DIST.csv",
-  "sample_records": 47,
-  "sample_sha256": "d59166363cd5ff8e4ae0dec94d45665901fa08bef19d76bd1b6efb260133b0a4",
-  "sample_size_bytes": 209582,
-  "total_records": 479
+  "sample_records": 53,
+  "sample_sha256": "b0ce52cc6dbba37583b7035d18e780412217b7a4c94f2fdc114c59c26342edab",
+  "sample_size_bytes": 231904,
+  "total_records": 533
 }
