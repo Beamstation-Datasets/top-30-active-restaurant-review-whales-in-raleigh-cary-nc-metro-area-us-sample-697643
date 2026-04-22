@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Raleigh-Cary, NC Metro Area, US
 
-> Free BeamStation sample export with 47 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `697643` |
 | Location | Raleigh-Cary, NC |
 | Category | Restaurants |
-| Full dataset size | 479 records |
-| Free sample size | 47 records (9.81%) |
-| Last export | 2026-04-15T01:50:45.725639+00:00 |
+| Full dataset size | 533 records |
+| Free sample size | 53 records (9.94%) |
+| Last export | 2026-04-22T06:32:52.804225+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-raleigh-cary-nc-metro-area-us-sample-697643/releases/download/sample-latest/beamstation_697643_restaurants-us-raleighcarync_SAMPLE_DIST.csv) |
 
 ## What is in this sample
